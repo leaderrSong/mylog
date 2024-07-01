@@ -1,0 +1,1 @@
+export { default } from "D:\\oJavaOpen\\MyBlog2\\node_modules\\vuepress-plugin-flowchart\\lib\\client.js"
