@@ -50,7 +50,7 @@ module.exports = ctx => ({
         sidebar: {
           '/api/': getApiSidebar(),
           '/guide/': getGuideSidebar('八股文', '分章节'),
-          '/plugin/': getPluginSidebar('插件', '介绍', '官方插件'),
+          '/plugin/': getPluginSidebar('插件', '介绍', '工具'),
           '/theme/': getThemeSidebar('主题', '介绍')
         }
       }
@@ -146,10 +146,8 @@ function getPluginSidebar (pluginTitle, pluginIntro, officialPluginTitle) {
       children: [
         ['', pluginIntro],
         'using-a-plugin',
-        'writing-a-plugin',
-        'life-cycle',
-        'option-api',
-        'context-api'
+          "1.der",
+          "2.ww"
       ]
     },
     {

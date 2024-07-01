@@ -2456,11 +2456,7 @@ export const siteData = {
                   "",
                   "介绍"
                 ],
-                "using-a-plugin",
-                "writing-a-plugin",
-                "life-cycle",
-                "option-api",
-                "context-api"
+                "using-a-plugin"
               ]
             },
             {

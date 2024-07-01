@@ -8,12 +8,12 @@ module.exports = [
         link: '/guide/'
     },
     {
-        text: '联系',
-        link: '/config/'
+        text: '工具',
+        link: '/plugin/'
     },
     {
-        text: '合作',
-        link: '/plugin/'
+        text: '联系',
+        link: '/config/'
     },
     {
         text: 'V1.3版本',
