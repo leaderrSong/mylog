@@ -85,7 +85,7 @@ export const siteData = {
       "frontmatter": {},
       "regularPath": "/api/node.html",
       "relativePath": "api/node.md",
-      "key": "v-50d77608",
+      "key": "v-0ee2a348",
       "path": "/api/node.html",
       "headers": [
         {
@@ -154,14 +154,231 @@ export const siteData = {
           "slug": "siteconfig"
         }
       ],
-      "lastUpdated": "2024/7/1 09:54:19"
+      "lastUpdated": "2024/7/1 16:08:22"
+    },
+    {
+      "title": "命令行接口",
+      "frontmatter": {},
+      "regularPath": "/api/cli.html",
+      "relativePath": "api/cli.md",
+      "key": "v-5e05fe2a",
+      "path": "/api/cli.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "基本用法",
+          "slug": "基本用法"
+        },
+        {
+          "level": 2,
+          "title": "build",
+          "slug": "build"
+        },
+        {
+          "level": 3,
+          "title": "-p, --port <port>",
+          "slug": "p-port-port"
+        },
+        {
+          "level": 3,
+          "title": "-t, --temp <temp>",
+          "slug": "t-temp-temp"
+        },
+        {
+          "level": 3,
+          "title": "-c, --cache [cache]",
+          "slug": "c-cache-cache"
+        },
+        {
+          "level": 3,
+          "title": "--no-cache",
+          "slug": "no-cache"
+        },
+        {
+          "level": 3,
+          "title": "--dest <dest>",
+          "slug": "dest-dest"
+        },
+        {
+          "level": 3,
+          "title": "--debug",
+          "slug": "debug"
+        },
+        {
+          "level": 3,
+          "title": "--silent",
+          "slug": "silent"
+        },
+        {
+          "level": 2,
+          "title": "dev",
+          "slug": "dev"
+        },
+        {
+          "level": 3,
+          "title": "--host <host>",
+          "slug": "host-host"
+        },
+        {
+          "level": 3,
+          "title": "--open",
+          "slug": "open"
+        },
+        {
+          "level": 3,
+          "title": "--no-clear-screen",
+          "slug": "no-clear-screen"
+        },
+        {
+          "level": 2,
+          "title": "eject",
+          "slug": "eject"
+        },
+        {
+          "level": 2,
+          "title": "更多指令",
+          "slug": "更多指令"
+        }
+      ],
+      "lastUpdated": "2024/7/1 16:08:22"
+    },
+    {
+      "title": "1.数据结构",
+      "frontmatter": {},
+      "regularPath": "/guide/1.%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.html",
+      "relativePath": "guide/1.数据结构.md",
+      "key": "v-68eee3a8",
+      "path": "/guide/1.%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "图",
+          "slug": "图"
+        },
+        {
+          "level": 3,
+          "title": "堆",
+          "slug": "堆"
+        },
+        {
+          "level": 3,
+          "title": "栈",
+          "slug": "栈"
+        },
+        {
+          "level": 3,
+          "title": "队列",
+          "slug": "队列"
+        },
+        {
+          "level": 3,
+          "title": "链表",
+          "slug": "链表"
+        },
+        {
+          "level": 3,
+          "title": "数组",
+          "slug": "数组"
+        },
+        {
+          "level": 3,
+          "title": "矩阵",
+          "slug": "矩阵"
+        },
+        {
+          "level": 3,
+          "title": "字符串",
+          "slug": "字符串"
+        },
+        {
+          "level": 3,
+          "title": "哈希表",
+          "slug": "哈希表"
+        },
+        {
+          "level": 3,
+          "title": "二叉树",
+          "slug": "二叉树"
+        },
+        {
+          "level": 3,
+          "title": "广度优先搜索",
+          "slug": "广度优先搜索"
+        },
+        {
+          "level": 3,
+          "title": "深度优先搜索",
+          "slug": "深度优先搜索"
+        },
+        {
+          "level": 3,
+          "title": "滑动窗口",
+          "slug": "滑动窗口"
+        },
+        {
+          "level": 3,
+          "title": "动态规划",
+          "slug": "动态规划"
+        },
+        {
+          "level": 3,
+          "title": "二分查找",
+          "slug": "二分查找"
+        },
+        {
+          "level": 3,
+          "title": "双指针",
+          "slug": "双指针"
+        },
+        {
+          "level": 3,
+          "title": "并查集",
+          "slug": "并查集"
+        },
+        {
+          "level": 3,
+          "title": "位运算",
+          "slug": "位运算"
+        },
+        {
+          "level": 3,
+          "title": "分治",
+          "slug": "分治"
+        },
+        {
+          "level": 3,
+          "title": "回溯",
+          "slug": "回溯"
+        },
+        {
+          "level": 3,
+          "title": "贪心",
+          "slug": "贪心"
+        },
+        {
+          "level": 3,
+          "title": "排序",
+          "slug": "排序"
+        },
+        {
+          "level": 3,
+          "title": "递归",
+          "slug": "递归"
+        },
+        {
+          "level": 3,
+          "title": "数学",
+          "slug": "数学"
+        }
+      ],
+      "lastUpdated": "2024/7/1 16:08:22"
     },
     {
       "title": "2.Java基础篇",
       "frontmatter": {},
       "regularPath": "/guide/2.JAVA%E5%9F%BA%E7%A1%80.html",
       "relativePath": "guide/2.JAVA基础.md",
-      "key": "v-f0f4222c",
+      "key": "v-77732336",
       "path": "/guide/2.JAVA%E5%9F%BA%E7%A1%80.html",
       "headers": [
         {
@@ -500,288 +717,14 @@ export const siteData = {
           "slug": ""
         }
       ],
-      "lastUpdated": "2024/7/1 12:34:11"
-    },
-    {
-      "title": "FAQ",
-      "frontmatter": {
-        "sidebar": "auto"
-      },
-      "regularPath": "/faq/",
-      "relativePath": "faq/README.md",
-      "key": "v-659794af",
-      "path": "/faq/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "为什么不能把 palette.styl 和 index.styl 合并到一个 API?",
-          "slug": "为什么不能把-palette-styl-和-index-styl-合并到一个-api"
-        },
-        {
-          "level": 2,
-          "title": "clientDynamicModules 和 enhanceAppFiles 的区别是什么?",
-          "slug": "clientdynamicmodules-和-enhanceappfiles-的区别是什么"
-        },
-        {
-          "level": 2,
-          "title": "什么时候需要使用 enhanceAppFiles?",
-          "slug": "什么时候需要使用-enhanceappfiles"
-        },
-        {
-          "level": 2,
-          "title": "什么时候需要使用 clientDynamicModules?",
-          "slug": "什么时候需要使用-clientdynamicmodules"
-        }
-      ],
-      "lastUpdated": "2024/7/1 09:54:19"
-    },
-    {
-      "title": "1.数据结构",
-      "frontmatter": {},
-      "regularPath": "/guide/1.%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.html",
-      "relativePath": "guide/1.数据结构.md",
-      "key": "v-2a392840",
-      "path": "/guide/1.%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "图",
-          "slug": "图"
-        },
-        {
-          "level": 3,
-          "title": "堆",
-          "slug": "堆"
-        },
-        {
-          "level": 3,
-          "title": "栈",
-          "slug": "栈"
-        },
-        {
-          "level": 3,
-          "title": "队列",
-          "slug": "队列"
-        },
-        {
-          "level": 3,
-          "title": "链表",
-          "slug": "链表"
-        },
-        {
-          "level": 3,
-          "title": "数组",
-          "slug": "数组"
-        },
-        {
-          "level": 3,
-          "title": "矩阵",
-          "slug": "矩阵"
-        },
-        {
-          "level": 3,
-          "title": "字符串",
-          "slug": "字符串"
-        },
-        {
-          "level": 3,
-          "title": "哈希表",
-          "slug": "哈希表"
-        },
-        {
-          "level": 3,
-          "title": "二叉树",
-          "slug": "二叉树"
-        },
-        {
-          "level": 3,
-          "title": "广度优先搜索",
-          "slug": "广度优先搜索"
-        },
-        {
-          "level": 3,
-          "title": "深度优先搜索",
-          "slug": "深度优先搜索"
-        },
-        {
-          "level": 3,
-          "title": "滑动窗口",
-          "slug": "滑动窗口"
-        },
-        {
-          "level": 3,
-          "title": "动态规划",
-          "slug": "动态规划"
-        },
-        {
-          "level": 3,
-          "title": "二分查找",
-          "slug": "二分查找"
-        },
-        {
-          "level": 3,
-          "title": "双指针",
-          "slug": "双指针"
-        },
-        {
-          "level": 3,
-          "title": "并查集",
-          "slug": "并查集"
-        },
-        {
-          "level": 3,
-          "title": "位运算",
-          "slug": "位运算"
-        },
-        {
-          "level": 3,
-          "title": "分治",
-          "slug": "分治"
-        },
-        {
-          "level": 3,
-          "title": "回溯",
-          "slug": "回溯"
-        },
-        {
-          "level": 3,
-          "title": "贪心",
-          "slug": "贪心"
-        },
-        {
-          "level": 3,
-          "title": "排序",
-          "slug": "排序"
-        },
-        {
-          "level": 3,
-          "title": "递归",
-          "slug": "递归"
-        },
-        {
-          "level": 3,
-          "title": "数学",
-          "slug": "数学"
-        }
-      ],
-      "lastUpdated": "2024/7/1 12:34:11"
-    },
-    {
-      "title": "命令行接口",
-      "frontmatter": {},
-      "regularPath": "/api/cli.html",
-      "relativePath": "api/cli.md",
-      "key": "v-3b470644",
-      "path": "/api/cli.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "基本用法",
-          "slug": "基本用法"
-        },
-        {
-          "level": 2,
-          "title": "build",
-          "slug": "build"
-        },
-        {
-          "level": 3,
-          "title": "-p, --port <port>",
-          "slug": "p-port-port"
-        },
-        {
-          "level": 3,
-          "title": "-t, --temp <temp>",
-          "slug": "t-temp-temp"
-        },
-        {
-          "level": 3,
-          "title": "-c, --cache [cache]",
-          "slug": "c-cache-cache"
-        },
-        {
-          "level": 3,
-          "title": "--no-cache",
-          "slug": "no-cache"
-        },
-        {
-          "level": 3,
-          "title": "--dest <dest>",
-          "slug": "dest-dest"
-        },
-        {
-          "level": 3,
-          "title": "--debug",
-          "slug": "debug"
-        },
-        {
-          "level": 3,
-          "title": "--silent",
-          "slug": "silent"
-        },
-        {
-          "level": 2,
-          "title": "dev",
-          "slug": "dev"
-        },
-        {
-          "level": 3,
-          "title": "--host <host>",
-          "slug": "host-host"
-        },
-        {
-          "level": 3,
-          "title": "--open",
-          "slug": "open"
-        },
-        {
-          "level": 3,
-          "title": "--no-clear-screen",
-          "slug": "no-clear-screen"
-        },
-        {
-          "level": 2,
-          "title": "eject",
-          "slug": "eject"
-        },
-        {
-          "level": 2,
-          "title": "更多指令",
-          "slug": "更多指令"
-        }
-      ],
-      "lastUpdated": "2024/7/1 09:54:19"
-    },
-    {
-      "title": "配置",
-      "frontmatter": {
-        "sidebarDepth": 3,
-        "sidebar": "auto"
-      },
-      "regularPath": "/config/",
-      "relativePath": "config/README.md",
-      "key": "v-2735121a",
-      "path": "/config/",
-      "headers": [
-        {
-          "level": 2,
-          "title": "基本配置",
-          "slug": "基本配置"
-        },
-        {
-          "level": 3,
-          "title": "base",
-          "slug": "base"
-        }
-      ],
-      "lastUpdated": "2024/7/1 09:54:19"
+      "lastUpdated": "2024/7/1 16:08:22"
     },
     {
       "title": "3. 集合面试总集.md",
       "frontmatter": {},
       "regularPath": "/guide/3.%20%E9%9B%86%E5%90%88%E9%9D%A2%E8%AF%95%E6%80%BB%E9%9B%86.html",
       "relativePath": "guide/3. 集合面试总集.md",
-      "key": "v-9f30fe6a",
+      "key": "v-4ac501d2",
       "path": "/guide/3.%20%E9%9B%86%E5%90%88%E9%9D%A2%E8%AF%95%E6%80%BB%E9%9B%86.html",
       "headers": [
         {
@@ -945,171 +888,71 @@ export const siteData = {
           "slug": "_32-concurrenthashmap了解吗-说说实现原理"
         }
       ],
-      "lastUpdated": "2024/7/1 09:54:19"
+      "lastUpdated": "2024/7/1 16:08:22"
     },
     {
-      "title": "6.Redis",
-      "frontmatter": {},
-      "regularPath": "/guide/6.Redis.html",
-      "relativePath": "guide/6.Redis.md",
-      "key": "v-a67bc284",
-      "path": "/guide/6.Redis.html",
+      "title": "FAQ",
+      "frontmatter": {
+        "sidebar": "auto"
+      },
+      "regularPath": "/faq/",
+      "relativePath": "faq/README.md",
+      "key": "v-127d73e3",
+      "path": "/faq/",
       "headers": [
         {
           "level": 2,
-          "title": "01.Redis 的存储结构有哪些",
-          "slug": "_01-redis-的存储结构有哪些"
+          "title": "为什么不能把 palette.styl 和 index.styl 合并到一个 API?",
+          "slug": "为什么不能把-palette-styl-和-index-styl-合并到一个-api"
         },
         {
           "level": 2,
-          "title": "02.为什么要用 Redis",
-          "slug": "_02-为什么要用-redis"
+          "title": "clientDynamicModules 和 enhanceAppFiles 的区别是什么?",
+          "slug": "clientdynamicmodules-和-enhanceappfiles-的区别是什么"
         },
         {
           "level": 2,
-          "title": "03.redis的持久化(AOF RDB)",
-          "slug": "_03-redis的持久化-aof-rdb"
+          "title": "什么时候需要使用 enhanceAppFiles?",
+          "slug": "什么时候需要使用-enhanceappfiles"
         },
         {
           "level": 2,
-          "title": "04.缓存和数据库双写一致性问题",
-          "slug": "_04-缓存和数据库双写一致性问题"
-        },
-        {
-          "level": 2,
-          "title": "05.缓存雪崩问题",
-          "slug": "_05-缓存雪崩问题"
-        },
-        {
-          "level": 2,
-          "title": "06.缓存穿透",
-          "slug": "_06-缓存穿透"
-        },
-        {
-          "level": 2,
-          "title": "07. 缓存击穿",
-          "slug": "_07-缓存击穿"
-        },
-        {
-          "level": 2,
-          "title": "08.缓存预热",
-          "slug": "_08-缓存预热"
-        },
-        {
-          "level": 2,
-          "title": "09.缓存更新",
-          "slug": "_09-缓存更新"
-        },
-        {
-          "level": 2,
-          "title": "10.缓存降级",
-          "slug": "_10-缓存降级"
-        },
-        {
-          "level": 2,
-          "title": "11.Redis 有几种数据淘汰策略",
-          "slug": "_11-redis-有几种数据淘汰策略"
-        },
-        {
-          "level": 2,
-          "title": "12.Redis 有几种数据过期策略",
-          "slug": "_12-redis-有几种数据过期策略"
-        },
-        {
-          "level": 2,
-          "title": "13.Redis 支持的 Java 客户端都有哪些",
-          "slug": "_13-redis-支持的-java-客户端都有哪些"
-        },
-        {
-          "level": 2,
-          "title": "14.如何使用 Redis 实现分布式锁",
-          "slug": "_14-如何使用-redis-实现分布式锁"
-        },
-        {
-          "level": 2,
-          "title": "15.什么是 Redis 事务",
-          "slug": "_15-什么是-redis-事务"
-        },
-        {
-          "level": 2,
-          "title": "16.Redis集群有哪些方案",
-          "slug": "_16-redis集群有哪些方案"
-        },
-        {
-          "level": 2,
-          "title": "17.一个 Redis 实例最多能存放多少的 keys？List、Set、Sorted Set 他们最多能存放多少元素",
-          "slug": "_17-一个-redis-实例最多能存放多少的-keys-list、set、sorted-set-他们最多能存放多少元素"
-        },
-        {
-          "level": 2,
-          "title": "18. redis是多线程还是单线程：",
-          "slug": "_18-redis是多线程还是单线程"
-        },
-        {
-          "level": 2,
-          "title": "19. Redis三种集群模式",
-          "slug": "_19-redis三种集群模式"
-        },
-        {
-          "level": 2,
-          "title": "20. reids主从模式",
-          "slug": "_20-reids主从模式"
-        },
-        {
-          "level": 2,
-          "title": "21、redis复制原理",
-          "slug": "_21、redis复制原理"
-        },
-        {
-          "level": 2,
-          "title": "22. Redis主从复制原理与优缺点",
-          "slug": "_22-redis主从复制原理与优缺点"
-        },
-        {
-          "level": 2,
-          "title": "23. Sentinel 哨兵模式 cluster模式 介绍",
-          "slug": "_23-sentinel-哨兵模式-cluster模式-介绍"
-        },
-        {
-          "level": 2,
-          "title": "24. Redisson分布式锁原理",
-          "slug": "_24-redisson分布式锁原理"
-        },
-        {
-          "level": 2,
-          "title": "25.Redis的应用场景",
-          "slug": "_25-redis的应用场景"
+          "title": "什么时候需要使用 clientDynamicModules?",
+          "slug": "什么时候需要使用-clientdynamicmodules"
         }
       ],
-      "lastUpdated": "2024/7/1 09:54:19"
+      "lastUpdated": "2024/7/1 16:08:22"
     },
     {
-      "title": "java 八股",
-      "frontmatter": {},
-      "regularPath": "/guide/Java%E5%85%AB%E8%82%A1%E5%9F%BA%E7%A1%80%EF%BC%88%E5%85%A8%EF%BC%89.html",
-      "relativePath": "guide/Java八股基础（全）.md",
-      "key": "v-75b2c75c",
-      "path": "/guide/Java%E5%85%AB%E8%82%A1%E5%9F%BA%E7%A1%80%EF%BC%88%E5%85%A8%EF%BC%89.html",
+      "title": "配置",
+      "frontmatter": {
+        "sidebarDepth": 3,
+        "sidebar": "auto"
+      },
+      "regularPath": "/config/",
+      "relativePath": "config/README.md",
+      "key": "v-3427c1b2",
+      "path": "/config/",
       "headers": [
         {
           "level": 2,
-          "title": "辅导班",
-          "slug": "辅导班"
+          "title": "基本配置",
+          "slug": "基本配置"
         },
         {
           "level": 3,
-          "title": "饭店宾馆公司法",
-          "slug": "饭店宾馆公司法"
+          "title": "base",
+          "slug": "base"
         }
       ],
-      "lastUpdated": "2024/7/1 09:54:19"
+      "lastUpdated": "2024/7/1 16:08:22"
     },
     {
       "title": "5.多线程",
       "frontmatter": {},
       "regularPath": "/guide/5.%E5%A4%9A%E7%BA%BF%E7%A8%8B.html",
       "relativePath": "guide/5.多线程.md",
-      "key": "v-7b2baf4c",
+      "key": "v-249d0098",
       "path": "/guide/5.%E5%A4%9A%E7%BA%BF%E7%A8%8B.html",
       "headers": [
         {
@@ -1238,14 +1081,176 @@ export const siteData = {
           "slug": "_5-悲观锁与乐观锁"
         }
       ],
-      "lastUpdated": "2024/7/1 09:54:19"
+      "lastUpdated": "2024/7/1 16:08:22"
+    },
+    {
+      "title": "6.Redis",
+      "frontmatter": {},
+      "regularPath": "/guide/6.Redis.html",
+      "relativePath": "guide/6.Redis.md",
+      "key": "v-6fcfe3ec",
+      "path": "/guide/6.Redis.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "01.Redis 的存储结构有哪些",
+          "slug": "_01-redis-的存储结构有哪些"
+        },
+        {
+          "level": 2,
+          "title": "02.为什么要用 Redis",
+          "slug": "_02-为什么要用-redis"
+        },
+        {
+          "level": 2,
+          "title": "03.redis的持久化(AOF RDB)",
+          "slug": "_03-redis的持久化-aof-rdb"
+        },
+        {
+          "level": 2,
+          "title": "04.缓存和数据库双写一致性问题",
+          "slug": "_04-缓存和数据库双写一致性问题"
+        },
+        {
+          "level": 2,
+          "title": "05.缓存雪崩问题",
+          "slug": "_05-缓存雪崩问题"
+        },
+        {
+          "level": 2,
+          "title": "06.缓存穿透",
+          "slug": "_06-缓存穿透"
+        },
+        {
+          "level": 2,
+          "title": "07. 缓存击穿",
+          "slug": "_07-缓存击穿"
+        },
+        {
+          "level": 2,
+          "title": "08.缓存预热",
+          "slug": "_08-缓存预热"
+        },
+        {
+          "level": 2,
+          "title": "09.缓存更新",
+          "slug": "_09-缓存更新"
+        },
+        {
+          "level": 2,
+          "title": "10.缓存降级",
+          "slug": "_10-缓存降级"
+        },
+        {
+          "level": 2,
+          "title": "11.Redis 有几种数据淘汰策略",
+          "slug": "_11-redis-有几种数据淘汰策略"
+        },
+        {
+          "level": 2,
+          "title": "12.Redis 有几种数据过期策略",
+          "slug": "_12-redis-有几种数据过期策略"
+        },
+        {
+          "level": 2,
+          "title": "13.Redis 支持的 Java 客户端都有哪些",
+          "slug": "_13-redis-支持的-java-客户端都有哪些"
+        },
+        {
+          "level": 2,
+          "title": "14.如何使用 Redis 实现分布式锁",
+          "slug": "_14-如何使用-redis-实现分布式锁"
+        },
+        {
+          "level": 2,
+          "title": "15.什么是 Redis 事务",
+          "slug": "_15-什么是-redis-事务"
+        },
+        {
+          "level": 2,
+          "title": "16.Redis集群有哪些方案",
+          "slug": "_16-redis集群有哪些方案"
+        },
+        {
+          "level": 2,
+          "title": "17.一个 Redis 实例最多能存放多少的 keys？List、Set、Sorted Set 他们最多能存放多少元素",
+          "slug": "_17-一个-redis-实例最多能存放多少的-keys-list、set、sorted-set-他们最多能存放多少元素"
+        },
+        {
+          "level": 2,
+          "title": "18. redis是多线程还是单线程：",
+          "slug": "_18-redis是多线程还是单线程"
+        },
+        {
+          "level": 2,
+          "title": "19. Redis三种集群模式",
+          "slug": "_19-redis三种集群模式"
+        },
+        {
+          "level": 2,
+          "title": "20. reids主从模式",
+          "slug": "_20-reids主从模式"
+        },
+        {
+          "level": 2,
+          "title": "21、redis复制原理",
+          "slug": "_21、redis复制原理"
+        },
+        {
+          "level": 2,
+          "title": "22. Redis主从复制原理与优缺点",
+          "slug": "_22-redis主从复制原理与优缺点"
+        },
+        {
+          "level": 2,
+          "title": "23. Sentinel 哨兵模式 cluster模式 介绍",
+          "slug": "_23-sentinel-哨兵模式-cluster模式-介绍"
+        },
+        {
+          "level": 2,
+          "title": "24. Redisson分布式锁原理",
+          "slug": "_24-redisson分布式锁原理"
+        },
+        {
+          "level": 2,
+          "title": "25.Redis的应用场景",
+          "slug": "_25-redis的应用场景"
+        }
+      ],
+      "lastUpdated": "2024/7/1 16:08:22"
+    },
+    {
+      "title": "静态资源的的的的的",
+      "frontmatter": {},
+      "regularPath": "/guide/assets.html",
+      "relativePath": "guide/assets.md",
+      "key": "v-3b836fec",
+      "path": "/guide/assets.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "相对路径",
+          "slug": "相对路径"
+        },
+        {
+          "level": 2,
+          "title": "公共文件",
+          "slug": "公共文件"
+        },
+        {
+          "level": 2,
+          "title": "基础路径",
+          "slug": "基础路径"
+        }
+      ],
+      "lastUpdated": "2024/7/1 16:08:22"
     },
     {
       "title": "4.MySQL",
       "frontmatter": {},
       "regularPath": "/guide/4.MySQL.html",
       "relativePath": "guide/4.MySQL.md",
-      "key": "v-4e0e481e",
+      "key": "v-6964376a",
       "path": "/guide/4.MySQL.html",
       "headers": [
         {
@@ -1444,14 +1449,235 @@ export const siteData = {
           "slug": "_39-db搜索引擎的组成是什么-原理是什么"
         }
       ],
-      "lastUpdated": "2024/7/1 09:54:19"
+      "lastUpdated": "2024/7/1 16:08:22"
+    },
+    {
+      "title": "8.nginx+jwt+maven+git",
+      "frontmatter": {},
+      "regularPath": "/guide/8.nginx_jwt_maven_git.html",
+      "relativePath": "guide/8.nginx_jwt_maven_git.md",
+      "key": "v-1980bd0a",
+      "path": "/guide/8.nginx_jwt_maven_git.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "JWT",
+          "slug": "jwt"
+        },
+        {
+          "level": 2,
+          "title": "01.什么是JWT👍",
+          "slug": "_01-什么是jwt👍"
+        },
+        {
+          "level": 2,
+          "title": "02.JWT token 泄露了怎么办",
+          "slug": "_02-jwt-token-泄露了怎么办"
+        },
+        {
+          "level": 2,
+          "title": "03.Secret 如何设计",
+          "slug": "_03-secret-如何设计"
+        },
+        {
+          "level": 2,
+          "title": "04.如何解决续签问题",
+          "slug": "_04-如何解决续签问题"
+        },
+        {
+          "level": 2,
+          "title": "05.如何防止令牌被盗用",
+          "slug": "_05-如何防止令牌被盗用"
+        },
+        {
+          "level": 2,
+          "title": "01.nginx是什么",
+          "slug": "_01-nginx是什么"
+        },
+        {
+          "level": 2,
+          "title": "02.Nginx常用命令有哪些",
+          "slug": "_02-nginx常用命令有哪些"
+        },
+        {
+          "level": 2,
+          "title": "03.Nginx有哪些优点",
+          "slug": "_03-nginx有哪些优点"
+        },
+        {
+          "level": 2,
+          "title": "04.什么是正向代理",
+          "slug": "_04-什么是正向代理"
+        },
+        {
+          "level": 2,
+          "title": "05.什么是反向代理",
+          "slug": "_05-什么是反向代理"
+        },
+        {
+          "level": 2,
+          "title": "06.什么是负载均衡",
+          "slug": "_06-什么是负载均衡"
+        },
+        {
+          "level": 2,
+          "title": "07.Nginx如何处理Http请求",
+          "slug": "_07-nginx如何处理http请求"
+        },
+        {
+          "level": 2,
+          "title": "08.Nginx有哪些负载均衡策略",
+          "slug": "_08-nginx有哪些负载均衡策略"
+        },
+        {
+          "level": 2,
+          "title": "09.为什么Nginx不使用多线程",
+          "slug": "_09-为什么nginx不使用多线程"
+        },
+        {
+          "level": 2,
+          "title": "10.Nginx如何实现高并发的",
+          "slug": "_10-nginx如何实现高并发的"
+        },
+        {
+          "level": 2,
+          "title": "01.Maven 是什么",
+          "slug": "_01-maven-是什么"
+        },
+        {
+          "level": 2,
+          "title": "02.Maven 规约是什么",
+          "slug": "_02-maven-规约是什么"
+        },
+        {
+          "level": 2,
+          "title": "03.Maven 常用命令",
+          "slug": "_03-maven-常用命令"
+        },
+        {
+          "level": 2,
+          "title": "04.Maven 有哪些优点和缺点",
+          "slug": "_04-maven-有哪些优点和缺点"
+        },
+        {
+          "level": 2,
+          "title": "05.Maven 坐标的含义？",
+          "slug": "_05-maven-坐标的含义"
+        },
+        {
+          "level": 2,
+          "title": "06.LASTEST、RELEASE、SNAPSHOT 的区别",
+          "slug": "_06-lastest、release、snapshot-的区别"
+        },
+        {
+          "level": 2,
+          "title": "07.Maven 依赖原则？",
+          "slug": "_07-maven-依赖原则"
+        },
+        {
+          "level": 2,
+          "title": "08.Maven如何解决jar冲突",
+          "slug": "_08-maven如何解决jar冲突"
+        },
+        {
+          "level": 2,
+          "title": "09.Maven 生命周期是怎么样的",
+          "slug": "_09-maven-生命周期是怎么样的"
+        },
+        {
+          "level": 2,
+          "title": "10.什么是 Maven 插件",
+          "slug": "_10-什么是-maven-插件"
+        },
+        {
+          "level": 2,
+          "title": "11.什么是 Maven 仓库",
+          "slug": "_11-什么是-maven-仓库"
+        },
+        {
+          "level": 2,
+          "title": "01.git常用命令",
+          "slug": "_01-git常用命令"
+        },
+        {
+          "level": 2,
+          "title": "02.常用git工具",
+          "slug": "_02-常用git工具"
+        },
+        {
+          "level": 2,
+          "title": "03.Git 和 SVN 的优缺点",
+          "slug": "_03-git-和-svn-的优缺点"
+        },
+        {
+          "level": 2,
+          "title": "04.说说创建分支的步骤",
+          "slug": "_04-说说创建分支的步骤"
+        },
+        {
+          "level": 2,
+          "title": "05.tag是什么",
+          "slug": "_05-tag是什么"
+        },
+        {
+          "level": 2,
+          "title": "06.Git 提交代码时候写错 commit 信息后，如何重新设置 commit 信息",
+          "slug": "_06-git-提交代码时候写错-commit-信息后-如何重新设置-commit-信息"
+        },
+        {
+          "level": 2,
+          "title": "07.删除已经合并过的分支会发生什么事",
+          "slug": "_07-删除已经合并过的分支会发生什么事"
+        },
+        {
+          "level": 2,
+          "title": "08.add 和 stage 有什么区别",
+          "slug": "_08-add-和-stage-有什么区别"
+        },
+        {
+          "level": 2,
+          "title": "09.如何从 Git 中删除文件，而不将其从文件系统中删除",
+          "slug": "_09-如何从-git-中删除文件-而不将其从文件系统中删除"
+        },
+        {
+          "level": 2,
+          "title": "10.merge 和 rebase 的有什么区别",
+          "slug": "_10-merge-和-rebase-的有什么区别"
+        },
+        {
+          "level": 2,
+          "title": "11.reset 与 rebase 有什么区别？",
+          "slug": "_11-reset-与-rebase-有什么区别"
+        },
+        {
+          "level": 2,
+          "title": "12.pull 与 fetch 有什么区别",
+          "slug": "_12-pull-与-fetch-有什么区别"
+        },
+        {
+          "level": 2,
+          "title": "13.什么是 fork 操作",
+          "slug": "_13-什么是-fork-操作"
+        },
+        {
+          "level": 2,
+          "title": "14.Fork 和 Clone 有什么区别",
+          "slug": "_14-fork-和-clone-有什么区别"
+        },
+        {
+          "level": 2,
+          "title": "15.Git 服务器",
+          "slug": "_15-git-服务器"
+        }
+      ],
+      "lastUpdated": "2024/7/1 16:08:22"
     },
     {
       "title": "7.微服务架构",
       "frontmatter": {},
       "regularPath": "/guide/7.%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84.html",
       "relativePath": "guide/7.微服务架构.md",
-      "key": "v-37a2960c",
+      "key": "v-3cab6d50",
       "path": "/guide/7.%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84.html",
       "headers": [
         {
@@ -1710,237 +1936,7 @@ export const siteData = {
           "slug": "_2-fegin的底层原理实现"
         }
       ],
-      "lastUpdated": "2024/7/1 09:54:19"
-    },
-    {
-      "title": "8.nginx+jwt+maven+git",
-      "frontmatter": {},
-      "regularPath": "/guide/8.nginx_jwt_maven_git.html",
-      "relativePath": "guide/8.nginx_jwt_maven_git.md",
-      "key": "v-74c11084",
-      "path": "/guide/8.nginx_jwt_maven_git.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "JWT",
-          "slug": "jwt"
-        },
-        {
-          "level": 2,
-          "title": "01.什么是JWT👍",
-          "slug": "_01-什么是jwt👍"
-        },
-        {
-          "level": 2,
-          "title": "02.JWT token 泄露了怎么办",
-          "slug": "_02-jwt-token-泄露了怎么办"
-        },
-        {
-          "level": 2,
-          "title": "03.Secret 如何设计",
-          "slug": "_03-secret-如何设计"
-        },
-        {
-          "level": 2,
-          "title": "04.如何解决续签问题",
-          "slug": "_04-如何解决续签问题"
-        },
-        {
-          "level": 2,
-          "title": "05.如何防止令牌被盗用",
-          "slug": "_05-如何防止令牌被盗用"
-        },
-        {
-          "level": 2,
-          "title": "01.nginx是什么",
-          "slug": "_01-nginx是什么"
-        },
-        {
-          "level": 2,
-          "title": "02.Nginx常用命令有哪些",
-          "slug": "_02-nginx常用命令有哪些"
-        },
-        {
-          "level": 2,
-          "title": "03.Nginx有哪些优点",
-          "slug": "_03-nginx有哪些优点"
-        },
-        {
-          "level": 2,
-          "title": "04.什么是正向代理",
-          "slug": "_04-什么是正向代理"
-        },
-        {
-          "level": 2,
-          "title": "05.什么是反向代理",
-          "slug": "_05-什么是反向代理"
-        },
-        {
-          "level": 2,
-          "title": "06.什么是负载均衡",
-          "slug": "_06-什么是负载均衡"
-        },
-        {
-          "level": 2,
-          "title": "07.Nginx如何处理Http请求",
-          "slug": "_07-nginx如何处理http请求"
-        },
-        {
-          "level": 2,
-          "title": "08.Nginx有哪些负载均衡策略",
-          "slug": "_08-nginx有哪些负载均衡策略"
-        },
-        {
-          "level": 2,
-          "title": "09.为什么Nginx不使用多线程",
-          "slug": "_09-为什么nginx不使用多线程"
-        },
-        {
-          "level": 2,
-          "title": "10.Nginx如何实现高并发的",
-          "slug": "_10-nginx如何实现高并发的"
-        },
-        {
-          "level": 2,
-          "title": "01.Maven 是什么",
-          "slug": "_01-maven-是什么"
-        },
-        {
-          "level": 2,
-          "title": "02.Maven 规约是什么",
-          "slug": "_02-maven-规约是什么"
-        },
-        {
-          "level": 2,
-          "title": "03.Maven 常用命令",
-          "slug": "_03-maven-常用命令"
-        },
-        {
-          "level": 2,
-          "title": "04.Maven 有哪些优点和缺点",
-          "slug": "_04-maven-有哪些优点和缺点"
-        },
-        {
-          "level": 2,
-          "title": "05.Maven 坐标的含义？",
-          "slug": "_05-maven-坐标的含义"
-        },
-        {
-          "level": 2,
-          "title": "06.LASTEST、RELEASE、SNAPSHOT 的区别",
-          "slug": "_06-lastest、release、snapshot-的区别"
-        },
-        {
-          "level": 2,
-          "title": "07.Maven 依赖原则？",
-          "slug": "_07-maven-依赖原则"
-        },
-        {
-          "level": 2,
-          "title": "08.Maven如何解决jar冲突",
-          "slug": "_08-maven如何解决jar冲突"
-        },
-        {
-          "level": 2,
-          "title": "09.Maven 生命周期是怎么样的",
-          "slug": "_09-maven-生命周期是怎么样的"
-        },
-        {
-          "level": 2,
-          "title": "10.什么是 Maven 插件",
-          "slug": "_10-什么是-maven-插件"
-        },
-        {
-          "level": 2,
-          "title": "11.什么是 Maven 仓库",
-          "slug": "_11-什么是-maven-仓库"
-        },
-        {
-          "level": 2,
-          "title": "01.git常用命令",
-          "slug": "_01-git常用命令"
-        },
-        {
-          "level": 2,
-          "title": "02.常用git工具",
-          "slug": "_02-常用git工具"
-        },
-        {
-          "level": 2,
-          "title": "03.Git 和 SVN 的优缺点",
-          "slug": "_03-git-和-svn-的优缺点"
-        },
-        {
-          "level": 2,
-          "title": "04.说说创建分支的步骤",
-          "slug": "_04-说说创建分支的步骤"
-        },
-        {
-          "level": 2,
-          "title": "05.tag是什么",
-          "slug": "_05-tag是什么"
-        },
-        {
-          "level": 2,
-          "title": "06.Git 提交代码时候写错 commit 信息后，如何重新设置 commit 信息",
-          "slug": "_06-git-提交代码时候写错-commit-信息后-如何重新设置-commit-信息"
-        },
-        {
-          "level": 2,
-          "title": "07.删除已经合并过的分支会发生什么事",
-          "slug": "_07-删除已经合并过的分支会发生什么事"
-        },
-        {
-          "level": 2,
-          "title": "08.add 和 stage 有什么区别",
-          "slug": "_08-add-和-stage-有什么区别"
-        },
-        {
-          "level": 2,
-          "title": "09.如何从 Git 中删除文件，而不将其从文件系统中删除",
-          "slug": "_09-如何从-git-中删除文件-而不将其从文件系统中删除"
-        },
-        {
-          "level": 2,
-          "title": "10.merge 和 rebase 的有什么区别",
-          "slug": "_10-merge-和-rebase-的有什么区别"
-        },
-        {
-          "level": 2,
-          "title": "11.reset 与 rebase 有什么区别？",
-          "slug": "_11-reset-与-rebase-有什么区别"
-        },
-        {
-          "level": 2,
-          "title": "12.pull 与 fetch 有什么区别",
-          "slug": "_12-pull-与-fetch-有什么区别"
-        },
-        {
-          "level": 2,
-          "title": "13.什么是 fork 操作",
-          "slug": "_13-什么是-fork-操作"
-        },
-        {
-          "level": 2,
-          "title": "14.Fork 和 Clone 有什么区别",
-          "slug": "_14-fork-和-clone-有什么区别"
-        },
-        {
-          "level": 2,
-          "title": "15.Git 服务器",
-          "slug": "_15-git-服务器"
-        }
-      ],
-      "lastUpdated": "2024/7/1 09:54:19"
-    },
-    {
-      "title": "目录",
-      "frontmatter": {},
-      "regularPath": "/guide/",
-      "relativePath": "guide/README.md",
-      "key": "v-23e3b6e3",
-      "path": "/guide/",
-      "lastUpdated": "2024/7/1 09:54:19"
+      "lastUpdated": "2024/7/1 16:08:22"
     },
     {
       "title": "Home",
@@ -1967,75 +1963,46 @@ export const siteData = {
       },
       "regularPath": "/",
       "relativePath": "index.md",
-      "key": "v-b2945578",
+      "key": "v-37424b90",
       "path": "/",
-      "lastUpdated": "2024/7/1 12:23:43"
+      "lastUpdated": "2024/7/1 16:08:22"
     },
     {
-      "title": "插件",
+      "title": "java 八股",
       "frontmatter": {},
-      "regularPath": "/plugin/",
-      "relativePath": "plugin/README.md",
-      "key": "v-42778a5a",
-      "path": "/plugin/",
+      "regularPath": "/guide/Java%E5%85%AB%E8%82%A1%E5%9F%BA%E7%A1%80%EF%BC%88%E5%85%A8%EF%BC%89.html",
+      "relativePath": "guide/Java八股基础（全）.md",
+      "key": "v-3ee856a8",
+      "path": "/guide/Java%E5%85%AB%E8%82%A1%E5%9F%BA%E7%A1%80%EF%BC%88%E5%85%A8%EF%BC%89.html",
       "headers": [
         {
           "level": 2,
-          "title": "样例",
-          "slug": "样例"
-        }
-      ],
-      "lastUpdated": "2024/7/1 12:26:08"
-    },
-    {
-      "title": "主题",
-      "frontmatter": {},
-      "regularPath": "/theme/",
-      "relativePath": "theme/README.md",
-      "key": "v-06d5ee89",
-      "path": "/theme/",
-      "lastUpdated": "2024/7/1 12:34:11"
-    },
-    {
-      "title": "静态资源的的的的的",
-      "frontmatter": {},
-      "regularPath": "/guide/assets.html",
-      "relativePath": "guide/assets.md",
-      "key": "v-98461484",
-      "path": "/guide/assets.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "相对路径",
-          "slug": "相对路径"
+          "title": "辅导班",
+          "slug": "辅导班"
         },
         {
-          "level": 2,
-          "title": "公共文件",
-          "slug": "公共文件"
-        },
-        {
-          "level": 2,
-          "title": "基础路径",
-          "slug": "基础路径"
+          "level": 3,
+          "title": "饭店宾馆公司法",
+          "slug": "饭店宾馆公司法"
         }
       ],
-      "lastUpdated": "2024/7/1 09:54:19"
+      "lastUpdated": "2024/7/1 16:08:22"
     },
     {
+      "title": "目录",
       "frontmatter": {},
-      "regularPath": "/theme/blog-theme.html",
-      "relativePath": "theme/blog-theme.md",
-      "key": "v-f9ff693c",
-      "path": "/theme/blog-theme.html",
-      "lastUpdated": "2024/7/1 09:54:19"
+      "regularPath": "/guide/",
+      "relativePath": "guide/README.md",
+      "key": "v-1f9edc17",
+      "path": "/guide/",
+      "lastUpdated": "2024/7/1 16:08:22"
     },
     {
       "title": "在 Markdown 中 使用 Vue",
       "frontmatter": {},
       "regularPath": "/guide/using-vue.html",
       "relativePath": "guide/using-vue.md",
-      "key": "v-679db604",
+      "key": "v-61268e4a",
       "path": "/guide/using-vue.html",
       "headers": [
         {
@@ -2114,14 +2081,132 @@ export const siteData = {
           "slug": "badge"
         }
       ],
-      "lastUpdated": "2024/7/1 09:54:19"
+      "lastUpdated": "2024/7/1 16:08:22"
+    },
+    {
+      "title": "主题",
+      "frontmatter": {},
+      "regularPath": "/notes/",
+      "relativePath": "notes/README.md",
+      "key": "v-0eec8fcd",
+      "path": "/notes/",
+      "lastUpdated": "2024/7/1 16:08:22"
+    },
+    {
+      "title": "主题",
+      "frontmatter": {},
+      "regularPath": "/theme/",
+      "relativePath": "theme/README.md",
+      "key": "v-029113bd",
+      "path": "/theme/",
+      "lastUpdated": "2024/7/1 16:08:22"
+    },
+    {
+      "title": "插件",
+      "frontmatter": {},
+      "regularPath": "/plugin/",
+      "relativePath": "plugin/README.md",
+      "key": "v-4f6a39f2",
+      "path": "/plugin/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "样例",
+          "slug": "样例"
+        }
+      ],
+      "lastUpdated": "2024/7/1 16:08:22"
+    },
+    {
+      "title": "主题的继承",
+      "frontmatter": {},
+      "regularPath": "/theme/inheritance.html",
+      "relativePath": "theme/inheritance.md",
+      "key": "v-5745298a",
+      "path": "/theme/inheritance.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "动机",
+          "slug": "动机"
+        },
+        {
+          "level": 2,
+          "title": "概念",
+          "slug": "概念"
+        },
+        {
+          "level": 2,
+          "title": "使用",
+          "slug": "使用"
+        },
+        {
+          "level": 2,
+          "title": "继承策略",
+          "slug": "继承策略"
+        },
+        {
+          "level": 2,
+          "title": "插件的覆盖",
+          "slug": "插件的覆盖"
+        },
+        {
+          "level": 2,
+          "title": "组件的覆盖",
+          "slug": "组件的覆盖"
+        },
+        {
+          "level": 2,
+          "title": "访问父主题",
+          "slug": "访问父主题"
+        }
+      ],
+      "lastUpdated": "2024/7/1 16:08:22"
+    },
+    {
+      "title": "主题的配置",
+      "frontmatter": {
+        "metaTitle": "Configuration | Theme"
+      },
+      "regularPath": "/theme/option-api.html",
+      "relativePath": "theme/option-api.md",
+      "key": "v-fdfbe234",
+      "path": "/theme/option-api.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "plugins",
+          "slug": "plugins"
+        },
+        {
+          "level": 2,
+          "title": "devTemplate",
+          "slug": "devtemplate"
+        },
+        {
+          "level": 2,
+          "title": "ssrTemplate",
+          "slug": "ssrtemplate"
+        },
+        {
+          "level": 2,
+          "title": "extend",
+          "slug": "extend"
+        },
+        {
+          "level": 2,
+          "title": "globalLayout",
+          "slug": "globallayout"
+        }
+      ],
+      "lastUpdated": "2024/7/1 16:08:22"
     },
     {
       "title": "默认主题配置",
       "frontmatter": {},
       "regularPath": "/theme/default-theme-config.html",
       "relativePath": "theme/default-theme-config.md",
-      "key": "v-22794c7a",
+      "key": "v-7f791674",
       "path": "/theme/default-theme-config.html",
       "headers": [
         {
@@ -2235,107 +2320,30 @@ export const siteData = {
           "slug": "特定页面的自定义布局"
         }
       ],
-      "lastUpdated": "2024/7/1 09:54:19"
+      "lastUpdated": "2024/7/1 16:08:22"
     },
     {
-      "title": "主题",
       "frontmatter": {},
-      "regularPath": "/notes/",
-      "relativePath": "notes/README.md",
-      "key": "v-13316a99",
-      "path": "/notes/",
-      "lastUpdated": "2024/7/1 09:54:19"
+      "regularPath": "/theme/blog-theme.html",
+      "relativePath": "theme/blog-theme.md",
+      "key": "v-9f7edca4",
+      "path": "/theme/blog-theme.html",
+      "lastUpdated": "2024/7/1 16:08:22"
     },
     {
-      "title": "主题的继承",
       "frontmatter": {},
-      "regularPath": "/theme/inheritance.html",
-      "relativePath": "theme/inheritance.md",
-      "key": "v-78fd463e",
-      "path": "/theme/inheritance.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "动机",
-          "slug": "动机"
-        },
-        {
-          "level": 2,
-          "title": "概念",
-          "slug": "概念"
-        },
-        {
-          "level": 2,
-          "title": "使用",
-          "slug": "使用"
-        },
-        {
-          "level": 2,
-          "title": "继承策略",
-          "slug": "继承策略"
-        },
-        {
-          "level": 2,
-          "title": "插件的覆盖",
-          "slug": "插件的覆盖"
-        },
-        {
-          "level": 2,
-          "title": "组件的覆盖",
-          "slug": "组件的覆盖"
-        },
-        {
-          "level": 2,
-          "title": "访问父主题",
-          "slug": "访问父主题"
-        }
-      ],
-      "lastUpdated": "2024/7/1 09:54:19"
-    },
-    {
-      "title": "主题的配置",
-      "frontmatter": {
-        "metaTitle": "Configuration | Theme"
-      },
-      "regularPath": "/theme/option-api.html",
-      "relativePath": "theme/option-api.md",
-      "key": "v-53c1c89a",
-      "path": "/theme/option-api.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "plugins",
-          "slug": "plugins"
-        },
-        {
-          "level": 2,
-          "title": "devTemplate",
-          "slug": "devtemplate"
-        },
-        {
-          "level": 2,
-          "title": "ssrTemplate",
-          "slug": "ssrtemplate"
-        },
-        {
-          "level": 2,
-          "title": "extend",
-          "slug": "extend"
-        },
-        {
-          "level": 2,
-          "title": "globalLayout",
-          "slug": "globallayout"
-        }
-      ],
-      "lastUpdated": "2024/7/1 09:54:19"
+      "regularPath": "/theme/using-a-theme.html",
+      "relativePath": "theme/using-a-theme.md",
+      "key": "v-afa0246c",
+      "path": "/theme/using-a-theme.html",
+      "lastUpdated": "2024/7/1 16:08:22"
     },
     {
       "title": "开发主题",
       "frontmatter": {},
       "regularPath": "/theme/writing-a-theme.html",
       "relativePath": "theme/writing-a-theme.md",
-      "key": "v-ebf39c04",
+      "key": "v-37e7ed6c",
       "path": "/theme/writing-a-theme.html",
       "headers": [
         {
@@ -2375,15 +2383,7 @@ export const siteData = {
         }
       ],
       "excerpt": "<h1 id=\"开发主题\"><a class=\"header-anchor\" href=\"#开发主题\">#</a> 开发主题</h1>\n<p>想要书写一个主题，首先在你文档根目录创建一个 <code>.vuepress/theme</code> 目录，接着创建一个 <code>Layout.vue</code> 文件：</p>\n<pre class=\"vue-container\"><code><p>.\n└─ .vuepress\n └─ <code>theme</code>\n     └─ Layout.vue</p>\n</code></pre><p>到这里，就像开发一个普通的 Vue 应用一样。如何组织你的主题，这完全取决于你。</p>\n<h2 id=\"获取渲染内容\"><a class=\"header-anchor\" href=\"#获取渲染内容\">#</a> 获取渲染内容</h2>\n<p>当前的 <code>.md</code> 文件渲染的内容，可以作为一个独特的全局组件 <code>&lt;Content/&gt;</code> 来使用，你可能想要它显示在页面中的某个地方。一个最简单的主题，可以是一个唯一的 <code>Layout.vue</code> 组件，并包含以下内容：</p>\n<!--beforebegin--><div class=\"language-html extra-class\"><!--afterbegin--><pre v-pre class=\"language-html\"><code><span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;</span>template</span><span class=\"token punctuation\">></span></span>\n  <span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;</span>div</span> <span class=\"token attr-name\">class</span><span class=\"token attr-value\"><span class=\"token punctuation attr-equals\">=</span><span class=\"token punctuation\">\"</span>theme-container<span class=\"token punctuation\">\"</span></span><span class=\"token punctuation\">></span></span>\n    <span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;</span>Content</span><span class=\"token punctuation\">/></span></span>\n  <span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;/</span>div</span><span class=\"token punctuation\">></span></span>\n<span class=\"token tag\"><span class=\"token tag\"><span class=\"token punctuation\">&lt;/</span>template</span><span class=\"token punctuation\">></span></span>\n</code></pre>\n<!--beforeend--></div><!--afterend--><p><strong>更多请阅读:</strong></p>\n<ul>\n<li><RouterLink to=\"/guide/markdown-slot.html\">Markdown 插槽</RouterLink></li>\n</ul>\n<h2 id=\"内容摘抄\"><a class=\"header-anchor\" href=\"#内容摘抄\">#</a> 内容摘抄</h2>\n<p>如果一个 markdown 文件中有一个 `</p>\n",
-      "lastUpdated": "2024/7/1 09:54:19"
-    },
-    {
-      "frontmatter": {},
-      "regularPath": "/theme/using-a-theme.html",
-      "relativePath": "theme/using-a-theme.md",
-      "key": "v-7b3adf04",
-      "path": "/theme/using-a-theme.html",
-      "lastUpdated": "2024/7/1 09:54:19"
+      "lastUpdated": "2024/7/1 16:08:22"
     }
   ],
   "themeConfig": {
